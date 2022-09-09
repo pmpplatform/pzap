@@ -1,4 +1,4 @@
-module github.com/pasientskyhosting/pzap
+module github.com/pmpplatform/pzap
 
 go 1.18
 

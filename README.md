@@ -11,7 +11,7 @@ Example:
 ``` go
 import (
 	"go.uber.org/zap"
-	"github.com/pasientskyhosting/uzap"
+	"github.com/pmpplatform/uzap"
 )
 
 // For ease of use, call this in main(), as the first statement
