@@ -3,7 +3,7 @@ module github.com/pmpplatform/pzap
 go 1.18
 
 require (
-	github.com/VictoriaMetrics/metrics v1.18.1
+	github.com/VictoriaMetrics/metrics v1.22.2
 	github.com/blendle/zapdriver v1.3.1
 	github.com/kelseyhightower/envconfig v1.4.0
 	go.uber.org/zap v1.21.0
